@@ -3,7 +3,7 @@
 		"Id" : 1,
 		"Title" : "Akira",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	
@@ -12,7 +12,7 @@
 		"Id" : 2,
 		"Title" : "Alien",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -20,7 +20,7 @@
 		"Id" : 3,
 		"Title" : "Aliens",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -28,7 +28,7 @@
 		"Id" : 4,
 		"Title" : "Avatar",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -36,7 +36,7 @@
 		"Id" : 5,
 		"Title" : "Blade Runner",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -44,7 +44,7 @@
 		"Id" : 6,
 		"Title" : "Chappie",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -52,7 +52,7 @@
 		"Id" : 7,
 		"Title" : "Children of Men",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -60,7 +60,7 @@
 		"Id" : 8,
 		"Title" : "Cloud Atlas",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -68,7 +68,7 @@
 		"Id" : 9,
 		"Title" : "Dark City",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	},
@@ -76,7 +76,7 @@
 		"Id" : 10,
 		"Title" : "Dawn of the Planet of the Apes",
 		"Image" : "",
-		"Ratings" : "5",
+		"Ratings" : 5,
 		"Categories" : "Science Fiction",
 		"Cast" : ""
 	}
